@@ -9,9 +9,9 @@ I'm a Computer Science student from Embry-Riddle Aeronautical University, with a
 - 🌱 Continuously learning about AI, machine learning, and cloud computing.
 
 ## 🛠 Skills and Tools
-- **Languages:** Java, C++, Python, SQL
+- **Languages:** Java, C, C++, Python, SQL, Visual Basic
 - **Frameworks/Technologies:** Linux, Git
-- **Interests:** IoT Security, Digital Forensics, Agile Development
+- **Interests:** IoT Security, Digital Forensics, Agile Development, Machine Learning
 
 ## 📈 Highlight Projects
 - **Boeing IoT Device Vulnerabilities Research:** Led a project analyzing and mitigating security risks in aviation IoT devices.
