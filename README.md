@@ -13,8 +13,8 @@ I'm a Computer Science student from Embry-Riddle Aeronautical University, with a
 - **Frameworks/Technologies:** Linux, Git
 - **Interests:** IoT Security, Digital Forensics, Agile Development, Machine Learning
 
-## 📈 Highlight Projects
-- **Boeing IoT Device Vulnerabilities Research:** Led a project analyzing and mitigating security risks in aviation IoT devices.
+## 📈 Projects
+- **Boeing IoT Device Vulnerabilities Research:** Collaborated on a project analyzing and mitigating security risks in aviation IoT devices.
 - **SQL-based Digital Library Platform:** Developed a comprehensive platform for book reservations and collection management.
 
 ## 🤝 Let's Connect!
